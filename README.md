@@ -1,6 +1,8 @@
 # pandownload-fake-server
 https://www.hostloc.com/thread-675311-1-1.html
 
+**没有加速功能**
+
 感谢 hostloc@xjxaixxy 大佬提供的思路与文件
 
 感谢 [Womsxd/pandownload.com_Pages_Backup](https://github.com/Womsxd/pandownload.com_Pages_Backup) 的脚本文件
@@ -9,7 +11,7 @@ https://www.hostloc.com/thread-675311-1-1.html
  
 服务端添加了更多文件，已无需缓存，使用原客户端即可
 
-1.hosts 添加
+1. hosts 添加
 ```
 64.52.84.68 pandownload.com
 ```
